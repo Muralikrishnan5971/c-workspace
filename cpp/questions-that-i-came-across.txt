@@ -1,0 +1,6 @@
+
+1. Merge two sorted array with O(n) complexities
+
+2. Print 1 to 100 without using loop (in python) (hint: use recursion)
+
+

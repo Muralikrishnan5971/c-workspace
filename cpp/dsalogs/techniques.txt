@@ -1,0 +1,28 @@
+Algorithm Techniques
+--------------------
+
+1. TWO POINTER TECHNIQUE
+------------------------
+-> two pointer technique is used to solving problems that involves
+searching for a value or a range of values in a array or string.
+
+-> to use this technique most of the time the input must be sorted
+in some order, which helps to reduce the time complexity to
+O(n2) or O(n3) to O(n) of just one loop with two pointers and
+search each item once.
+
+-> so depending on the input array/string is sorted or not, the two
+pointer method can take O(n logn) time complexity or even better O(n)
+
+-> this technique also saves space by only using two pointers instead
+of creating an additional array or any other data structure.
+
+-> usage:
+* finding a pair of numbers in a sorted array that add up to
+a target value.
+* finding a subarray in a array that has a given sum.
+* finding a subarray in a array that has a given product.
+* checking if a string is a palindrome.
+* finding the longest substring in a stiring that is a palindrome
+* finding the intersection of two sorted arrays.
+

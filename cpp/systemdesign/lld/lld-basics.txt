@@ -1,0 +1,39 @@
+
+LOW LEVEL DESIGN
+================
+
+
+Build your intuition about low level design or object oriented design
+
+OOPS
+====
+
+Six important concepts in OOPS
+
+1. Objects
+2. Classes
+3. Encapsulation
+4. Abstraction
+5. Inheritance
+6. Polymorphism
+
+Try and convert these oops concepts to UML Diagrams
+
+UML - Unified Modelling Language
+
+1. Use case diagram
+2. Class diagram
+3. Sequence diagram
+4. Activity diagram
+
+google and see 'UML Conventions' to get more details
+
+Design Patterns
+---------------
+
+SOLID Principles
+----------------
+
+
+
+

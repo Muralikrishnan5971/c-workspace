@@ -1,0 +1,5 @@
+
+initially GCC was GNU C Compiler, later its evloved to be
+
+GCC - GNU Compiler Collection
+
