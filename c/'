@@ -1,0 +1,22 @@
+#include <ncurses.h>
+
+int main()
+{
+    initscr();
+    noecho();
+    curs_set(FALSE);
+
+    int sx, sy, w, h;
+
+    char msg[] = "hi, this is your git client, How may i help you!";
+
+    h = 10;
+    w = 40;
+    sy = (LINES - height) / 2;
+    sx = (COLS - height) / 2;
+
+    mvhline(sy, sx, '=', w);
+    mvhline(sy + h, sx, '=', w);
+
+    mvvline(sy, sx, '#', w);
+    mvvline(sy, sx + h, '#', w);
